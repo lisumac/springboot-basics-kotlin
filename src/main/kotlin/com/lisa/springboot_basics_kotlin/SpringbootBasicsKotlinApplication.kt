@@ -8,4 +8,5 @@ class SpringbootBasicsKotlinApplication
 
 fun main(args: Array<String>) {
 	runApplication<SpringbootBasicsKotlinApplication>(*args)
+	//runApplication<TodoController>(*args)
 }
